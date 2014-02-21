@@ -4,3 +4,6 @@
 [submodule "modules/domain"]
 	path = modules/domain
 	url = git@github.com:ringohub/ddd-sample-domain.git
+[submodule "modules/infrastructure"]
+	path = modules/infrastructure
+	url = git@github.com:ringohub/ddd-sample-infrastructure.git
