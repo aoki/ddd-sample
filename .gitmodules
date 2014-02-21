@@ -1,0 +1,3 @@
+[submodule "modules/application"]
+	path = modules/application
+	url = git@github.com:ringohub/ddd-sample-application.git
